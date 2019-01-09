@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Neelanjan Sen",
+      "contactno": 456456546,
+      "email": "Neelanjan@gmail.com"
+    },
+    {
+      "name": "Jayaprasad K",
+      "contactno": "34534534",
+      "email": "jp@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "contact2222",
+      "contactno": "34534534",
+      "email": "contact2222@gmail.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": 34534
+    }
+  ]
+}
